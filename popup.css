@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(180, 68, 68);
+}
+#popup_head{
+    border-left: 2px solid;
+    padding: 5px;
+}
+#popup{
+    width: 200px;
+}
+#popup_body{
+    color: antiquewhite;
+    background-color: rgb(202, 89, 89);
+    width: 100%;
+}
+#popup_foot{
+    text-align: right;
+}
+.label{
+    font-weight: 700;
+}
+.label_val{
+    background-color: antiquewhite;
+    color:rgb(180, 68, 68);
+
+}
